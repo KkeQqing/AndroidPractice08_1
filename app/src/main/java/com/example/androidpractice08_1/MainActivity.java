@@ -242,4 +242,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             tvResult.setText("生成XML出错");
         }
     }
+    
 }
